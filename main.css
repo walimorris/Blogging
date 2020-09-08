@@ -37,4 +37,6 @@ body {
 
 .contact-info {
     text-align: center;
+    width: 50%;
+    margin: 8%;
 }
