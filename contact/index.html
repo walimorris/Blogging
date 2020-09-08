@@ -8,7 +8,7 @@
     <title>Contact Me</title>
 </head>
 
-<body>
+<body class="contact-page">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
@@ -25,10 +25,30 @@
         </div>
     </nav>
 
-    <p>Here's my email: www.walimmorris@gmail.com</p>
-    <p>Wali Morris</br>
-        Seattle, WA
-    </p>
+    <h2 class="contact-greeting">Contact Me</h2>
+    <hr>
+    <p class="contact-greeting2">I'll love to hear from you. I'm open for collaboration, networking, and conversation!</p>
+
+    <form class="contact-info">
+        <div class="form-group">
+            <label for="contactemail">Email address</label>
+            <input type="email" class="form-control" id="contactemail" placeholder="name@example.com">
+        </div>
+        <div class="form-group">
+            <label for="contactname">Name</label>
+            <input type="text" class="form-control" id="contactname" placeholder="Firstname Lastname">
+        </div>
+        <div class="form-group">
+            <label for="contactmessage">Send your message</label>
+            <textarea class="form-control" id="contactmessage" rows="10"></textarea>
+        </div>
+        <div class="col">
+            <input type="submit" value="Submit">
+        </div>
+    </form>
+
+
+
 
     <p>
         <a href="https://github.com/walimorris">Github</a>
