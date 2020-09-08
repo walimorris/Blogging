@@ -1,0 +1,28 @@
+.homepage-h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #b0e0e6;
+}
+
+.blogs {
+    background-color: #95d3f1;
+    color: #000000;
+    text-align: center;
+    font-size: 65px;
+}
+
+.blog-entries {
+    background-color: #95d3f1;
+    color: #000000;
+    text-align: center;
+    font-size: 65px;
+}
+
+.project-title {
+    background-color: #95d3f1;
+    color: #ffffff;
+    text-align: center;
+    font-size: 65px;
+}
