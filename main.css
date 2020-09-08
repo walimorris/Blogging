@@ -36,7 +36,7 @@ body {
 }
 
 .contact-info {
-    text-align: center;
     width: 50%;
-    margin: 8%;
+    margin-left: 25%;
+    margin-right: 25%
 }
