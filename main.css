@@ -52,3 +52,21 @@ body {
 .social-media-contact {
     text-align: center;
 }
+
+.homepage-footer {
+    width: 50%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.home-copyright {
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    resize: none;
+    width: 100%;
+}
+
+.social-media-home {
+    text-align: center;
+}
