@@ -46,4 +46,9 @@ body {
     position: fixed;
     width: 100%;
     bottom: 0;
+    resize: none;
+}
+
+.social-media-contact {
+    text-align: center;
 }
