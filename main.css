@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #b0e0e6;
+    background-color: #f7f7f7;
 }
 
 .blogs {
@@ -39,4 +39,11 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-right: 25%
+}
+
+.contact-footer {
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
