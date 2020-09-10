@@ -69,4 +69,21 @@ body {
 
 .social-media-home {
     text-align: center;
+    bottom: 0;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: left;
+}
+
+.flexbox-item {
+    width: 300px;
+    margin: 10px;
+    border: #000000;
+    background-color: #808080;
+}
+
+.flexbox-item-1 {
+    min-height: 600px;
 }
